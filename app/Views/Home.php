@@ -9,7 +9,6 @@
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	</head>
 	<body>
-		<?php echo md5(sha1("student123")); ?>
 		<div class="background"></div>
 		<section class="hero is-fullheight">
 			<div class="hero-head"></div>
