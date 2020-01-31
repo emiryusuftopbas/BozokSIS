@@ -180,6 +180,7 @@ In this table grades are stored.
 - **grade_lesson :** is the id of the lesson. There is foreign key relationship with the lesson_id column in the lessons table.
 
 **attendance**
+
 In this table attendance are stored
 - **attendance_id :** The id column is the primary key and increases automatically when the record is added.
 - **attendance_student :** is the id of the student. There is foreign key relationship with the student_id column in the students table. 
