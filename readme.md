@@ -32,7 +32,7 @@ git clone https://github.com/emiryusuftopbas/BozokSIS.git
 
 - Change configuration file config.php in the app folder
 
-![Config.php file](https://i.ibb.co/7YJwkGP/confd.png)
+![Config.php file](https://user-images.githubusercontent.com/58172827/76758231-595b4680-679a-11ea-9381-7d6e0445f6d2.png)
 	
 - You are ready to run BozokSIS :)
 
@@ -45,7 +45,7 @@ git clone https://github.com/emiryusuftopbas/BozokSIS.git
 | Student       	|  16008118012 	| student123 	|
 
 - Login screen
-![Login screen](https://i.ibb.co/D8WZNMK/login.png)
+![Login screen](https://user-images.githubusercontent.com/58172827/76758330-8871b800-679a-11ea-924f-3a8dd37b2839.png)
 
 - Login BozokSIS and enjoy it.
 
@@ -79,24 +79,24 @@ If the e-mail address is bozok.edu.tr or yobu.edu.tr, the system automatically r
 
 Academicians and students cannot log in to the system immediately after they are registered to the system, an administrator must approve them.
 
-![Unapproved user warning](https://i.ibb.co/8KPDWWX/asdasd.png)
+![Unapproved user warning](https://user-images.githubusercontent.com/58172827/76758379-a3dcc300-679a-11ea-9d01-d812785311d0.png)
 
-![Admin dashboard students](https://i.ibb.co/zV2wXwn/students.png)
+![Admin dashboard students](https://user-images.githubusercontent.com/58172827/76758421-b525cf80-679a-11ea-83a4-ba4aa3e20c48.png)
 
 - Login and signup system use ajax technology and sweetalert library.
 
 ### Dashboards
 - Administrator Dashboard
 
-![Admin Dashboard](https://i.ibb.co/nQWj703/asdasdasdasd.png)
+![Admin Dashboard](https://user-images.githubusercontent.com/58172827/76758479-cc64bd00-679a-11ea-9edc-07f3800415c3.png)
 
 - Academician Dashboard
 
-![Admin Dashboard](https://i.ibb.co/pz9Q9JR/acdash.png)
+![Admin Dashboard](https://user-images.githubusercontent.com/58172827/76758516-df778d00-679a-11ea-9b40-32a96a739c41.png)
 
 - Student Dashboard
 
-![Student Dashboard](https://i.ibb.co/KXJH80V/studentdash.png)
+![Student Dashboard](https://user-images.githubusercontent.com/58172827/76758556-f918d480-679a-11ea-8238-738f23c5f119.png)
 
 ### Academic years , academic terms and course selection
 
@@ -131,9 +131,9 @@ In this table course selection dates are stored.
 - **course_selection_date_status :** course selection date status 2 for active 1 for passive.
 - **academic_term :** is the id of the academic term to choose the course.There is a foreign key relationship with the academic_term_id column in the academic_term table.
 
-![Academic year and term operations](https://i.ibb.co/7KWjNh1/ttt.png)
+![Academic year and term operations](https://user-images.githubusercontent.com/58172827/76758592-0c2ba480-679b-11ea-9326-c07cc860b7da.png)
 
-![Course selection operations](https://i.ibb.co/2MbXPhF/dsfsdf.png)
+![Course selection operations](https://user-images.githubusercontent.com/58172827/76758655-32e9db00-679b-11ea-8569-7f4b3f2533a7.png)
 
 ### Departments and faculties
 
@@ -154,19 +154,19 @@ In this table departments are stored.
 - **faculty_id :** Id of the faculty to which the department is affiliated. There is foreign key relationship with the faculty_id column in the faculties table.
 - **department_head :** is the id of the department head.There is foreign key relationship with the academician_id column in the academicians table.
 
-![Admin dashboard faculties](https://i.ibb.co/X7QL3ZD/faculties.png)
+![Admin dashboard faculties](https://user-images.githubusercontent.com/58172827/76758787-7e03ee00-679b-11ea-8cd3-52287c87fdec.png)
 
-![Admin dashboard departments](https://i.ibb.co/Ks9qbgf/departments.png)
+![Admin dashboard departments](https://user-images.githubusercontent.com/58172827/76758842-94aa4500-679b-11ea-9eb4-81af3909c59d.png)
 
 ### Grade status and attendance
 
 Only academicians can add or modify grades and attendance status.
 
-![Academician my lessons page](https://i.ibb.co/xmz91kT/mylessons.png)
+![Academician my lessons page](https://user-images.githubusercontent.com/58172827/76758903-ae4b8c80-679b-11ea-948d-85380f0c3360.png)
 
-![Academician add grade page](https://i.ibb.co/qxh4CW7/addgrade.png)
+![Academician add grade page](https://user-images.githubusercontent.com/58172827/76758942-c15e5c80-679b-11ea-8079-2090befc6d15.png)
 
-![Academician add attendance page](https://i.ibb.co/HFTr21k/addattendance.png)
+![Academician add attendance page](https://user-images.githubusercontent.com/58172827/76758999-d89d4a00-679b-11ea-8790-e9cf557ee0bc.png)
 
 
 **grades**
@@ -189,14 +189,14 @@ In this table attendance are stored
 
 How students see their grades and attendance status.
 
-![Student dashboard grade status](https://i.ibb.co/LpHKX0w/gradestatus.png)
+![Student dashboard grade status](https://user-images.githubusercontent.com/58172827/76759034-efdc3780-679b-11ea-80be-558be8e85ff4.png)
 
-![student dashboard attendance status](https://i.ibb.co/q9WhhWX/attendancestatus.png)
+![student dashboard attendance status](https://user-images.githubusercontent.com/58172827/76759063-01bdda80-679c-11ea-9c19-b49d7fc4d28d.png)
 
 
 ### Database entity relation diagram
 
-![Database entity relation diagram](https://i.ibb.co/xD3WfQV/Entity-Relation-Diagram.png)
+![Database entity relation diagram](https://user-images.githubusercontent.com/58172827/76759109-1601d780-679c-11ea-8a83-6e84f94f5a6c.png)
 
 ## Contributors
 
